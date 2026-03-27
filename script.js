@@ -16,9 +16,15 @@ function start(){
     let userName = prompt("What is your name?");
     console.log(userName);
 
+    
+
 }
 
 function addName(newName){
+
+    //1. create second heading 
+    let heading = document.createElement("h2");
+        
     
 }
 
